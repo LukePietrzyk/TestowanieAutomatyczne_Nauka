@@ -1,1 +1,1 @@
-# TestowanieAutomatyczne_Nauka
+# TestowanieAutomatyczne_Nauka/Git&Origin
